@@ -1,5 +1,3 @@
-from __future__ import absolute_import
-
 # flake8: noqa
 
 # import apis into api package
@@ -66,3 +64,4 @@ from kubernetes.client.api.storage_v1beta1_api import StorageV1beta1Api
 from kubernetes.client.api.storagemigration_api import StoragemigrationApi
 from kubernetes.client.api.storagemigration_v1alpha1_api import StoragemigrationV1alpha1Api
 from kubernetes.client.api.version_api import VersionApi
+
